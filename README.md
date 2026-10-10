@@ -1,4 +1,5 @@
-<img src="cpts-logo.webp" width="400"
+Personal study notes
+<img src="cpts-logo.webp" width="400">
 # CPTS Study Reference
 
 Personal study notes & cheatsheets while preparing for the **HackTheBox Certified Penetration Testing Specialist (CPTS)** path.
